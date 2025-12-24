@@ -3,8 +3,8 @@
 Bu projemde görüntü işleme teknikleri (OpenCV ve Tesseract-OCR) kullanarak araç plakalarını otomatik olarak tespit edip okuyan bir Python programıdır.
 
 - **Python 3.9**
-- **OpenCV**: Görüntü işleme ve kenar tespiti için
-- **Pytesseract**: OCR (Optical Character Recognition) ile plaka metnini okumak için
+- **OpenCV**: Görüntü işleme ve kenar tespiti için,
+- **Pytesseract**: OCR (Optical Character Recognition) ile plaka metnini okumak için.
 
 ## Kurulum ve çalıştırma
 
