@@ -1,6 +1,6 @@
 # Plaka Tanıma Sistemi
 
-Bu projemde görüntü işleme teknikleri (OpenCV ve Tesseract-OCR) kullanarak araç plakalarını otomatik olarak tespit edip okuyan bir Python programıdır. B
+Bu projemde görüntü işleme teknikleri (OpenCV ve Tesseract-OCR) kullanarak araç plakalarını otomatik olarak tespit edip okuyan bir Python programıdır.
 
 - **Python 3.9**
 - **OpenCV**: Görüntü işleme ve kenar tespiti için
